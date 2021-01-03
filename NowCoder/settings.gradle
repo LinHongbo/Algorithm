@@ -1,0 +1,2 @@
+include ':huawei'
+rootProject.name='NowCoder'
